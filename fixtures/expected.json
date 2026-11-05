@@ -1,0 +1,125 @@
+{
+ "tolerance": 0.15,
+ "rows": [
+  {
+   "name": "edifier-g2pro",
+   "role": "harman",
+   "filters": 12,
+   "rms": 0.53,
+   "rms_core": 0.286,
+   "worst_core": -1.12,
+   "peak": 1.5,
+   "preamp": -2.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "edifier-g2pro",
+   "role": "game",
+   "filters": 11,
+   "rms": 0.576,
+   "rms_core": 0.362,
+   "worst_core": 1.66,
+   "peak": -0.0,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hifiman-sundara",
+   "role": "harman",
+   "filters": 10,
+   "rms": 0.378,
+   "rms_core": 0.292,
+   "worst_core": 1.25,
+   "peak": -0.02,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hifiman-sundara",
+   "role": "game",
+   "filters": 9,
+   "rms": 0.546,
+   "rms_core": 0.272,
+   "worst_core": -1.11,
+   "peak": -0.0,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hyperx-cloud2-71",
+   "role": "harman",
+   "filters": 11,
+   "rms": 0.794,
+   "rms_core": 0.375,
+   "worst_core": -2.43,
+   "peak": -1.85,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hyperx-cloud2-71",
+   "role": "game",
+   "filters": 12,
+   "rms": 0.75,
+   "rms_core": 0.34,
+   "worst_core": -1.42,
+   "peak": -1.22,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hyperx-cloud2-stock",
+   "role": "harman",
+   "filters": 10,
+   "rms": 0.306,
+   "rms_core": 0.151,
+   "worst_core": 0.45,
+   "peak": -0.01,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "hyperx-cloud2-stock",
+   "role": "game",
+   "filters": 11,
+   "rms": 0.551,
+   "rms_core": 0.285,
+   "worst_core": -1.0,
+   "peak": -0.84,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "moondrop-blessing3l",
+   "role": "harman",
+   "filters": 7,
+   "rms": 0.149,
+   "rms_core": 0.118,
+   "worst_core": -0.38,
+   "peak": -0.27,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  },
+  {
+   "name": "moondrop-blessing3l",
+   "role": "game",
+   "filters": 7,
+   "rms": 0.302,
+   "rms_core": 0.208,
+   "worst_core": 1.02,
+   "peak": -0.82,
+   "preamp": 0.0,
+   "passed": true,
+   "violations": []
+  }
+ ]
+}
